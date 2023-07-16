@@ -28,6 +28,11 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
     <li> <a href="https://www.linkedin.com/in/brijesh-singh-456185228/"> <img width="50px" height="50px" text-aligh="center" src="https://th.bing.com/th/id/OIP.9kgaONTgEcLw-qGDYcHDRwHaHa?pid=ImgDet&rs=1"/> </a></li>
     <li> <a href="https://www.instagram.com/brijeshsingh5744/"><img width="50px" height="50px" text-aligh="center" src="https://th.bing.com/th/id/OIP.mdNMeNAxQL1gWv0U3KAe1gAAAA?pid=ImgDet&rs=1"/></a></li>
   </ul>
+
+
+  ### :fire: My Stats :
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-brijesh2004&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **brijesh2004/brijesh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
