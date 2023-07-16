@@ -4,19 +4,15 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
 
 <h2>⚡Skills </h2>
 <ul>
- 
-     <li> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&nbsp;</li>
-     <li> <img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original-wordmark.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;</li>
-   <li> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;</li>
-   <li> <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;</li>
-      <li> <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;</li>
-   <li> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;</li>
-  <li> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;</li>
-   <li> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;</li>
-  <li> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;</li>
- <li> <img src="https://github.com/devicons/devicon/blob/master/icons/expressjs/expressjs-original-wordmark.svg" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;</li>
-  <li> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;</li>
-   <li> <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="mongoose" alt="mongoose" width="40" height="40"/>&nbsp;</li>
+ <li>C/C++</li>
+ <li>Python</li>
+ <li>HTML5 / CSS3</li>
+ <li>BootStap</li>
+ <li>React JS</li>
+ <li>Node Js</li>
+ <li>Express Js</li>
+ <li>MongoDB</li>
+ <li>Mongoose</li>
 </ul>
 
 <h2> ⚡Competetive Programming Handler</h2>
