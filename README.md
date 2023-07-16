@@ -30,12 +30,6 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
 <li><a href="https://www.codingninjas.com/studio/profile/Brijesh_94ec">Code Studio</a></li>
   </ul>
 
-  <h2>Connect</h2>
-  <ul>
-    <li> <a href="https://www.linkedin.com/in/brijesh-singh-456185228/"> <img width="50px" height="50px" text-aligh="center" src="https://th.bing.com/th/id/OIP.9kgaONTgEcLw-qGDYcHDRwHaHa?pid=ImgDet&rs=1"/> </a></li>
-    <li> <a href="https://www.instagram.com/brijeshsingh5744/"><img width="50px" height="50px" text-aligh="center" src="https://th.bing.com/th/id/OIP.mdNMeNAxQL1gWv0U3KAe1gAAAA?pid=ImgDet&rs=1"/></a></li>
-  </ul>
-
 
   ### :fire: My Stats :
 
