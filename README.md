@@ -8,7 +8,7 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
   <li>Python</li>
    <li>HTML/CSS</li>
   <li>JAVASCRUPT</li>
-  <li>React js</li>
+  <li> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;</li>
   <li>Bootstap</li>
   <li>Node JS</li>
   <li>Express JS</li>
