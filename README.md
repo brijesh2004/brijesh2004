@@ -14,6 +14,7 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
  <li>C/C++</li>
  <li>Python</li>
  <li>HTML5 / CSS3</li>
+  <li>JavaScript</li>
  <li>BootStap</li>
  <li>React JS</li>
  <li>Node Js</li>
