@@ -9,6 +9,7 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
  <a href="https://www.linkedin.com/in/brijesh-singh-456185228"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
  <a href="https://www.instagram.com/brijeshsingh5744/"> <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=red" alt="Insta Badge"/></a>
 </div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-brijesh2004&style=flat-square&color=blue" alt=""/></div>
 <h2>⚡Skills </h2>
 <ul>
  <li>C/C++</li>
