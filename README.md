@@ -1,6 +1,6 @@
 ### <h1>WELCOME TO MY PROFILE 👋</h1>
 
-MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Machine Learning.
+MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Machine Learning. I love coding very much . I have good in Problem Solving also i have solved 500+ problem on the geeksforgeek platform and it's continue 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
