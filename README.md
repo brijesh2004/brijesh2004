@@ -18,10 +18,13 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
   <li>JavaScript</li>
  <li>BootStap</li>
  <li>React JS</li>
+ <li>Redux</li>
  <li>Node Js</li>
  <li>Express Js</li>
  <li>MongoDB</li>
  <li>Mongoose</li>
+ <li>Next.js</li>
+ <li>Type Script</li>
 </ul>
 
 <h2> ⚡Competetive Programming Handler</h2>
@@ -30,6 +33,7 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
 <li><a href="https://leetcode.com/brijesh_singh/">Leetcode</a></li>
 <li><a href="https://www.codechef.com/users/brijesh_122004">CodeChef</a></li>
 <li><a href="https://www.codingninjas.com/studio/profile/Brijesh_94ec">Code Studio</a></li>
+<li><a href="https://www.hackerrank.com/profile/brskumar0102">HackerRank</a> </li>
   </ul>
 
 
