@@ -37,7 +37,7 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
   </ul>
 
 
-  ### :fire: My Stats :
+  ### :fire: 👱‍♂️ My Stats :
   ![Brijesh Singh GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brijesh2004&show_icons=true&theme=transparent)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=brijesh2004&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
@@ -45,7 +45,7 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
 
  ![Snake animation](https://github.com/thepiyushmalhotra/brijesh2004/blob/output/github-contribution-grid-snake.svg)
 
- ![Snake animation](https://github.com/{brijesh2004}/{brijesh2004}/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/{{brijesh2004}}/{{brijesh2004}}/blob/output/github-contribution-grid-snake.svg)
 <!--
 **brijesh2004/brijesh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
