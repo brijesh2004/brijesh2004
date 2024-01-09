@@ -44,6 +44,8 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh2004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  ![Snake animation](https://github.com/thepiyushmalhotra/brijesh2004/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/{brijesh2004}/{brijesh2004}/blob/output/github-contribution-grid-snake.svg)
 <!--
 **brijesh2004/brijesh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
