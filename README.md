@@ -32,7 +32,7 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
 <h2> ⚡Competetive Programming Handler</h2>
 <ul>
 <li> <a href="https://auth.geeksforgeeks.org/user/brskumar0102">GFG</a></li>
-<li><a href="https://leetcode.com/brijesh_2004/">Leetcode</a></li>
+<li><a href="https://leetcode.com/brijesh_122004/">Leetcode</a></li>
 <li><a href="https://www.codechef.com/users/brijesh_122004">CodeChef</a></li>
 <li><a href="https://www.codingninjas.com/studio/profile/Brijesh_94ec">Code Studio</a></li>
 <li><a href="https://www.hackerrank.com/profile/brskumar0102">HackerRank</a> </li>
