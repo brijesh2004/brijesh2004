@@ -1,6 +1,6 @@
 ### <h1>WELCOME TO MY PROFILE 👋</h1>
 
-MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Machine Learning. I love coding very much . I am good in Problem Solving also i have solved 500+ problem on the geeksforgeek platform and the journey of solving problem still continue
+MERN Stack Developer and NEXT.js Developer. I love coding . I am good in Problem Solving also i have solved 700+ problem on the geeksforgeek platform and the journey of solving problem still continue
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -16,17 +16,21 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
 <ul>
  <li>C/C++</li>
  <li>Python</li>
+  <li>TypeScript</li>
  <li>HTML5 / CSS3</li>
   <li>JavaScript</li>
  <li>BootStap</li>
+  <li>Tailwind CSS </li>
  <li>React JS</li>
+  <li>Next.Js</li>
  <li>Redux</li>
  <li>Node Js</li>
  <li>Express Js</li>
  <li>MongoDB</li>
  <li>Mongoose</li>
- <li>Next.js</li>
- <li>Type Script</li>
+  <li>Django</li>
+  <li>DJango-rest-framework</li>
+  
 </ul>
 
 <h2> ⚡Competetive Programming Handler</h2>
@@ -44,11 +48,6 @@ MERN Stack Developer Exploring the new Technology NEXT.js and Typescript ans Mac
   ![Brijesh Singh GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brijesh2004&show_icons=true&theme=transparent)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=brijesh2004&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh2004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
- ![Snake animation](https://github.com/thepiyushmalhotra/brijesh2004/blob/output/github-contribution-grid-snake.svg)
-
- ![Snake animation](https://github.com/{{brijesh2004}}/{{brijesh2004}}/blob/output/github-contribution-grid-snake.svg)
 <!--
 **brijesh2004/brijesh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
