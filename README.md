@@ -1,6 +1,7 @@
 ### <h1>WELCOME TO MY PROFILE 👋</h1>
 
-MERN Stack Developer and NEXT.js Developer. I love coding . I am good in Problem Solving also i have solved 700+ problem on the geeksforgeek platform and the journey of solving problem still continue
+MERN Stack and NEXT.js Developer. I love coding . I am good in Problem Solving also i have solved 700+ problem on the geeksforgeek platform and the journey of solving problem still continue
+i am exploring the blockchain technology too
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -30,7 +31,8 @@ MERN Stack Developer and NEXT.js Developer. I love coding . I am good in Problem
  <li>Mongoose</li>
   <li>Django</li>
   <li>DJango-rest-framework</li>
-  
+  <li>Ether.JS</li>
+  <li>HardHat</li>
 </ul>
 
 <h2> ⚡Competetive Programming Handler</h2>
