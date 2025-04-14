@@ -1,7 +1,4 @@
-### <h1>WELCOME TO MY PROFILE 👋</h1>
-
-MERN Stack and NEXT.js Developer. I love coding . I am good in Problem Solving also i have solved 700+ problem on the geeksforgeek platform and the journey of solving problem still continue
-i am exploring the blockchain technology too
+<h1>👋 Welcome to My Profile</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -12,23 +9,66 @@ i am exploring the blockchain technology too
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-brijesh2004&style=flat-square&color=blue" alt=""/></div>
 
- Email - brskumar0102@gmail.com
+- 📫 How to reach me **brskumar0102@gmail.com**
+
+<p>
+  Hi, I'm <strong>Brijesh Singh</strong> — a passionate Web and Mobile App Developer with strong problem-solving skills.  
+  <br />
+  <b>💡 Solved 1000+ DSA problems</b>
+</p>
+
+<h2>🔥 Technologies I Work With 🔥</h2>
+
+<h3>🖥️ Frontend Technologies</h3>
+<ul>
+  <li>React.js</li>
+  <li>Next.js</li>
+  <li>Tailwind CSS</li>
+</ul>
+
+<h3>🛠️ Backend Technologies</h3>
+<ul>
+  <li>Node.js & Express.js</li>
+  <li>Go (Golang)</li>
+  <li>Django REST Framework</li>
+</ul>
+
+<h3>🗄️ Databases</h3>
+<ul>
+  <li>MongoDB</li>
+  <li>PostgreSQL</li>
+</ul>
+
+<h3>📱 Mobile App Development</h3>
+<ul>
+  <li>React Native</li>
+</ul>
+
+
+
 <h2>⚡Skills </h2>
 <ul>
  <li>C/C++</li>
+  <li>Java</li>
  <li>Python</li>
+  <li>Solidity</li>
   <li>TypeScript</li>
+  <li>GoLang</li>
  <li>HTML5 / CSS3</li>
   <li>JavaScript</li>
  <li>BootStap</li>
   <li>Tailwind CSS </li>
  <li>React JS</li>
+  <li>React Native</li>
   <li>Next.Js</li>
  <li>Redux</li>
  <li>Node Js</li>
  <li>Express Js</li>
  <li>MongoDB</li>
  <li>Mongoose</li>
+  <li>Postgre SQL</li>
+  <li>Docker </li>
+  <li>Redis</li>
   <li>Django</li>
   <li>DJango-rest-framework</li>
   <li>Ether.JS</li>
@@ -44,6 +84,11 @@ i am exploring the blockchain technology too
   <li><a href="https://codeforces.com/profile/brijesh_singh">Codeforces</a></li>
 <li><a href="https://www.hackerrank.com/profile/brskumar0102">HackerRank</a> </li>
   </ul>
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brijesh2004&show_icons=true&locale=en&layout=compact" alt="brijesh2004" /></p> <br>
+
 
 
   ### :fire: 👱‍♂️ My Stats :
