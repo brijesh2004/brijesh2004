@@ -10,6 +10,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-brijesh2004&style=flat-square&color=blue" alt=""/></div>
 
 - 📫 How to reach me **brskumar0102@gmail.com**
+- visit my Portfolio <a href="https://brijeshsinghg.netlify.app/"> Portfolio </a>
 
 <p>
   Hi, I'm <strong>Brijesh Singh</strong> — a passionate Web and Mobile App Developer with strong problem-solving skills.  
