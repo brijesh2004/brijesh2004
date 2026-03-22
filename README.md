@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brijesh Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Mobile App Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;1000%2B+DSA+Problems+Solved;System+Design+Enthusiast;Building+Scalable+Applications" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
@@ -15,68 +18,90 @@
   <a href="https://www.instagram.com/brij_esh_singh/">
     <img src="https://img.shields.io/badge/Instagram-@brij_esh_singh-red?style=for-the-badge&logo=instagram" />
   </a>
+  <a href="mailto:brskumar0102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> brskumar0102@gmail.com <br>
   🌍 <b>Portfolio:</b> <a href="https://brijeshsinghg.netlify.app/">Visit Here</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 💡 Passionate **Web & Mobile App Developer**
-- 🧠 Strong in **Data Structures & Algorithms (1000+ problems solved)**
-- ⚡ Love building **scalable apps & real-time systems**
-- 🎯 Focused on **Backend + System Design + Performance Optimization**
+- 🚀 Software Engineer at **Bharat Electronics Limited (BEL)**
+- 💡 Full Stack + Mobile App Developer
+- 🧠 Solved **1000+ DSA problems**
+- ⚡ Specialized in **Real-time systems, Backend & System Design**
+- 🎯 Focused on building **scalable & high-performance applications**
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-1000%2B%20Problems-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code360-Top%201%25-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-1842-yellow?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/CodeChef-1653-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GFG-1807-darkgreen?style=for-the-badge" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 🚀 Software Engineer  
+**Bharat Electronics Limited (BEL)** — *Sep 2025 – Present*
+
+- 🛰️ Built **defense-grade real-time geospatial systems**
+- ⚙️ Processed **multi-source sensor data in real-time**
+- 🔌 Integrated **UDP, TCP, Serial communication**
+- 🚀 Improved performance by **20%**
+
+---
+
+### 📱 React Native Developer Intern  
+**FlexiEle (Remote)** — *Mar 2025 – Jun 2025*
+
+- 📊 Built **real-time upload tracking**
+- ⚡ Implemented **infinite scrolling optimization**
+- 🎯 Recommendation system → **+15% engagement**
+- ☁️ Integrated **AWS S3 + MongoDB**
+
+---
+
+### 💻 Full Stack Developer Intern  
+**MELE (Remote)** — *Sep 2024 – Dec 2024*
+
+- 🔧 Built REST APIs (posts, likes, comments)
+- ⚡ Improved performance by **20%**
+- 🛠️ Developed **admin panel**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 RenKart – MERN Rental Platform
+- ⚡ 30% faster APIs with optimization  
+- 🔐 JWT authentication + RBAC  
+- 💬 Real-time chat using Socket.IO  
+
+---
+
+### 🔐 PassPointX – Password Manager
+- 🔒 AES encryption (privacy-first)  
+- 📱 React Native mobile app  
+- 📦 Offline-first architecture  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🖥️ Frontend
-<p>
-  React.js • Next.js • Tailwind CSS • Redux
-</p>
-
-### 🛠️ Backend
-<p>
-  Node.js • Express.js • Django • Django REST Framework • Golang
-</p>
-
-### 🗄️ Databases
-<p>
-  MongoDB • PostgreSQL • Redis
-</p>
-
-### 📱 Mobile Development
-<p>
-  React Native
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-  Docker • Git • Cloudinary • Socket.IO • WebRTC • Hardhat • Ethers.js
-</p>
-
----
-
-## 🧠 Programming Languages
-<p>
-  C/C++ • Java • Python • JavaScript • TypeScript • Go • Solidity
-</p>
-
----
-
-## 🏆 Competitive Programming Profiles
-
-<p>
-  <a href="https://auth.geeksforgeeks.org/user/brskumar0102">GeeksforGeeks</a> •
-  <a href="https://leetcode.com/brijesh_2004/">LeetCode</a> •
-  <a href="https://www.codechef.com/users/brijesh_122004">CodeChef</a> •
-  <a href="https://codeforces.com/profile/brijesh_singh">Codeforces</a> •
-  <a href="https://www.hackerrank.com/profile/brskumar0102">HackerRank</a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,docker,aws,typescript,js,java,python,go,cpp" />
 </p>
 
 ---
@@ -84,25 +109,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brijesh2004&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brijesh2004&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=brijesh2004&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=brijesh2004&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh2004&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh2004&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## ⚡ Highlights
+## ⚡ Competitive Programming
 
-- ✅ Built multiple **Full Stack & Mobile Apps**
-- 📡 Experience with **Real-time systems (WebRTC, Socket.IO)**
-- 🔐 Developed a **Password Manager App (PassPointX)**
-- 📈 Strong understanding of **System Design & APIs**
+<p align="center">
+  <a href="https://leetcode.com/brijesh_2004/">LeetCode</a> •
+  <a href="https://codeforces.com/profile/brijesh_singh">Codeforces</a> •
+  <a href="https://www.codechef.com/users/brijesh_122004">CodeChef</a> •
+  <a href="https://auth.geeksforgeeks.org/user/brskumar0102">GFG</a>
+</p>
 
 ---
 
