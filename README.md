@@ -1,112 +1,109 @@
-<h1>👋 Welcome to My Profile</h1>
+<h1 align="center">Hi 👋, I'm Brijesh Singh</h1>
+<h3 align="center">🚀 Full Stack Developer | Mobile App Developer | Problem Solver</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
-<div id="badges" align="center">
- <a href="https://www.linkedin.com/in/brijesh-singh-456185228"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
- <a href="https://www.instagram.com/brij_esh_singh/"> <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=red" alt="Insta Badge"/></a>
-</div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-brijesh2004&style=flat-square&color=blue" alt=""/></div>
 
-- 📫 How to reach me **brskumar0102@gmail.com**
-- visit my Portfolio <a href="https://brijeshsinghg.netlify.app/"> Portfolio </a>
+---
 
-<p>
-  Hi, I'm <strong>Brijesh Singh</strong> — a passionate Web and Mobile App Developer with strong problem-solving skills.  
-  <br />
-  <b>💡 Solved 1000+ DSA problems</b>
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/brijesh-singh-456185228">
+    <img src="https://img.shields.io/badge/LinkedIn-Brijesh%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/brij_esh_singh/">
+    <img src="https://img.shields.io/badge/Instagram-@brij_esh_singh-red?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
 
-<h2>🔥 Technologies I Work With 🔥</h2>
+<p align="center">
+  📧 <b>Email:</b> brskumar0102@gmail.com <br>
+  🌍 <b>Portfolio:</b> <a href="https://brijeshsinghg.netlify.app/">Visit Here</a>
+</p>
 
-<h3>🖥️ Frontend Technologies</h3>
-<ul>
-  <li>React.js</li>
-  <li>Next.js</li>
-  <li>Tailwind CSS</li>
-</ul>
+---
 
-<h3>🛠️ Backend Technologies</h3>
-<ul>
-  <li>Node.js & Express.js</li>
-  <li>Go (Golang)</li>
-  <li>Django REST Framework</li>
-</ul>
+## 👨‍💻 About Me
 
-<h3>🗄️ Databases</h3>
-<ul>
-  <li>MongoDB</li>
-  <li>PostgreSQL</li>
-</ul>
+- 💡 Passionate **Web & Mobile App Developer**
+- 🧠 Strong in **Data Structures & Algorithms (1000+ problems solved)**
+- ⚡ Love building **scalable apps & real-time systems**
+- 🎯 Focused on **Backend + System Design + Performance Optimization**
 
-<h3>📱 Mobile App Development</h3>
-<ul>
-  <li>React Native</li>
-</ul>
+---
 
+## 🚀 Tech Stack
 
+### 🖥️ Frontend
+<p>
+  React.js • Next.js • Tailwind CSS • Redux
+</p>
 
-<h2>⚡Skills </h2>
-<ul>
- <li>C/C++</li>
-  <li>Java</li>
- <li>Python</li>
-  <li>Solidity</li>
-  <li>TypeScript</li>
-  <li>GoLang</li>
- <li>HTML5 / CSS3</li>
-  <li>JavaScript</li>
- <li>BootStap</li>
-  <li>Tailwind CSS </li>
- <li>React JS</li>
-  <li>React Native</li>
-  <li>Next.Js</li>
- <li>Redux</li>
- <li>Node Js</li>
- <li>Express Js</li>
- <li>MongoDB</li>
- <li>Mongoose</li>
-  <li>Postgre SQL</li>
-  <li>Docker </li>
-  <li>Redis</li>
-  <li>Django</li>
-  <li>DJango-rest-framework</li>
-  <li>Ether.JS</li>
-  <li>HardHat</li>
-</ul>
+### 🛠️ Backend
+<p>
+  Node.js • Express.js • Django • Django REST Framework • Golang
+</p>
 
-<h2> ⚡Competetive Programming Handler</h2>
-<ul>
-<li> <a href="https://auth.geeksforgeeks.org/user/brskumar0102">GFG</a></li>
-<li><a href="https://leetcode.com/brijesh_2004/">Leetcode</a></li>
-<li><a href="https://www.codechef.com/users/brijesh_122004">CodeChef</a></li>
-<li><a href="https://www.codingninjas.com/studio/profile/Brijesh_94ec">Code Studio</a></li>
-  <li><a href="https://codeforces.com/profile/brijesh_singh">Codeforces</a></li>
-<li><a href="https://www.hackerrank.com/profile/brskumar0102">HackerRank</a> </li>
-  </ul>
+### 🗄️ Databases
+<p>
+  MongoDB • PostgreSQL • Redis
+</p>
 
+### 📱 Mobile Development
+<p>
+  React Native
+</p>
 
+### ⚙️ Tools & Technologies
+<p>
+  Docker • Git • Cloudinary • Socket.IO • WebRTC • Hardhat • Ethers.js
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brijesh2004&show_icons=true&locale=en&layout=compact" alt="brijesh2004" /></p> <br>
+---
 
+## 🧠 Programming Languages
+<p>
+  C/C++ • Java • Python • JavaScript • TypeScript • Go • Solidity
+</p>
 
+---
 
-  ### :fire: 👱‍♂️ My Stats :
-  ![Brijesh Singh GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brijesh2004&show_icons=true&theme=transparent)
- [![GitHub Streak](https://streak-stats.demolab.com/?user=brijesh2004&theme=vision-friendly-dark)](https://git.io/streak-stats)
+## 🏆 Competitive Programming Profiles
 
-<!--
-**brijesh2004/brijesh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://auth.geeksforgeeks.org/user/brskumar0102">GeeksforGeeks</a> •
+  <a href="https://leetcode.com/brijesh_2004/">LeetCode</a> •
+  <a href="https://www.codechef.com/users/brijesh_122004">CodeChef</a> •
+  <a href="https://codeforces.com/profile/brijesh_singh">Codeforces</a> •
+  <a href="https://www.hackerrank.com/profile/brskumar0102">HackerRank</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brijesh2004&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=brijesh2004&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh2004&layout=compact&theme=radical" />
+</p>
+
+---
+
+## ⚡ Highlights
+
+- ✅ Built multiple **Full Stack & Mobile Apps**
+- 📡 Experience with **Real-time systems (WebRTC, Socket.IO)**
+- 🔐 Developed a **Password Manager App (PassPointX)**
+- 📈 Strong understanding of **System Design & APIs**
+
+---
+
+## 🚀 Let's Build Something Amazing Together!
